@@ -1,2 +1,3 @@
 # Welcome to Map Across
-A short description of my app.
+Map Across finds overlapping areas of multiple types of places, so you can visit them all in just one single trip.
+
